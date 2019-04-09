@@ -26,6 +26,7 @@ public class TancSoStudentite {
 
     public void init() {
         //TODO: da se implementira
+	System.out.print("");
     }
 
     class Masko extends Thread {
